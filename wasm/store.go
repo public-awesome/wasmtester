@@ -1,0 +1,5 @@
+package wasm
+
+func StoreCode() {
+
+}
